@@ -1,4 +1,4 @@
-Shafin Aziz — Personal Portfolio Website
+## Shafin Aziz  Personal Portfolio Website
 
 A fully animated, cyberpunk-themed personal portfolio built with pure HTML, CSS & Vanilla JavaScript.
 
@@ -40,7 +40,10 @@ A fully animated, cyberpunk-themed personal portfolio built with pure HTML, CSS 
 ## WordPress & SEO
 
 🌐 WordPress Websites
+
 📈 SEO Growth Campaigns (25–40% organic traffic increase)
+
 🛒 eCommerce SEO & Speed Optimization (20–35% speed boost)
+
 🔍 SEO Audit & Reporting (SEMrush, Ahrefs, Screaming Frog)
 
