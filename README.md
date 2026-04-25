@@ -2,7 +2,7 @@
 
 A fully animated, cyberpunk-themed personal portfolio built with pure HTML, CSS & Vanilla JavaScript.
 
-## Live Preview: 
+## Live Preview: https://shafinaziz781.github.io/Portfolio-Website/
 
 <img width="1873" height="900" alt="image" src="https://github.com/user-attachments/assets/6b12a17b-53d1-4cb5-b073-d59ce08e6e14" /><br>
 
